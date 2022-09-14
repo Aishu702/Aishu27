@@ -3,7 +3,8 @@
 <h3 align="center">Programmer | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishu702&label=Profile%20views&color=0e75b6&style=flat" alt="aishu702" /> </p>
- 🔭 I’m currently studying Computer Science
+  
+  🔭 I’m currently studying **Computer Science**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -11,7 +12,8 @@
 - 💬 Ask me about **Html, CSS,C, JAVA, MYSQL**
 
 - 📫 How to reach me **aishbondge2001@gmail.com**
-
+   
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aishwarya bondge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya bondge" height="30" width="40" /></a>
