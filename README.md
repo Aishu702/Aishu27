@@ -1,6 +1,6 @@
 # Aishu27
 <h1 align="center">Hi 👋, I'm Aishwarya Bondge</h1>
-<h3 align="center">Programmer|Learner</h3>
+<h3 align="center">Programmer | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishu702&label=Profile%20views&color=0e75b6&style=flat" alt="aishu702" /> </p>
 
